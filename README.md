@@ -1,2 +1,39 @@
-# CODSOFT_LANDINGPAGE
-Starbucks-Inspired Landing Page built using HTML and CSS for CodSoft Internship – Task 2. This project is for learning purposes only. All brand assets belong to their respective owners.
+# ☕ Starbucks-Inspired Landing Page  
+
+This project is *Task 2* of my *Web Development Internship at CodSoft*.  
+It is a simple, responsive *landing page* inspired by the Starbucks website — created using only *HTML and CSS* for learning purposes.  
+
+---
+
+## 🔧 Features  
+- Responsive single-page layout  
+- Header, main content, and footer sections  
+- Clean typography and color scheme inspired by Starbucks  
+- Social media links added for design purpose only  
+
+---
+
+## 🧰 Tech Stack  
+- *HTML5*  
+- *CSS3*
+
+---
+
+## 🚀 Live Demo  
+🔗 [Add your Live Link here – if hosted]  
+
+---
+
+## 📁 GitHub Repository  
+🔗 [Your GitHub Repository Link]
+
+---
+
+## ⚠ Disclaimer  
+This website is made *purely for educational and internship practice*.  
+All brand names, logos, and images used here belong to their respective owners (Starbucks).  
+
+---
+
+## 🙌 Acknowledgment  
+This project was created as part of my *#CodSoft Internship* program to enhance my frontend web development skills.
