@@ -25,7 +25,7 @@ It is a simple, responsive *landing page* inspired by the Starbucks website — 
 ---
 
 ## 📁 GitHub Repository  
-🔗 [Your GitHub Repository Link]
+🔗 [https://github.com/nitusharma01/CODSOFT_LANDINGPAGE]
 
 ---
 
