@@ -20,7 +20,7 @@ It is a simple, responsive *landing page* inspired by the Starbucks website — 
 ---
 
 ## 🚀 Live Demo  
-🔗 [Add your Live Link here – if hosted]  
+🔗 [https://nitusharma01.github.io/CODSOFT_LANDINGPAGE/]  
 
 ---
 
